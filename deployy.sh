@@ -1,1 +1,3 @@
-this is a deployment file
+deploy java application
+deploy python apps
+deploy in the dev app
